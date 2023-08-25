@@ -1,2 +1,0 @@
-import numpy as np 
-np.zerors((32,32,3),int)
