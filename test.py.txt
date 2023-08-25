@@ -1,2 +1,2 @@
 import numpy as np 
-np.ones((32,32,3),int)
+np.zerors((32,32,3),int)
