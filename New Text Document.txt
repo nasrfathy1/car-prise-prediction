@@ -1,0 +1,34 @@
+انت ليه تستخدم الجيت 
+علشان كل الناس يشتغلو مع بعض في بروجيكت واحد 
+علشان اعرف مين جط ايه في الكود وامتي 
+اعرف اشيل تغيير معين علي الكود 
+اعرف اعمل مقارنه بين الاكواد
+word you will hear
+repositry 
+branch   هو انك مثلا عاوز تضيف فيتشر في الريبو ده فباخد برنش بعمل عليها الفيتشر وبعد كده بوديه وممكن احذف البرنش بعدها
+local repo (pc)
+remote remote (github) 
+commit 
+clone استنساخ الريبو من اللوكال او الريموت
+
+push upload changes from local to remote
+pull  pull changes from remote to local
+pull request  بتستاذن من الادمن انك تعمل بال لو الكود بتاعك تمام بيقبلو لو في حاجه بيرفضو وتعدل عليه وتجيبو تاني 
+ 
+writen syntax
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+comments
+cd chdir
+dir get file and forder in dir 
+git clone linke
+
+working dir ----add--->stage area----commit---> local repo 
+git status: علشان تعرف الحاله بتاعت الملفات بتاعتك هي فين 
+
+giut reset head  to delete file form stage area
+
+
+how to push local to remote
+
+git branch كل البلانش اللي عندك
